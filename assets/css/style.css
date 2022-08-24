@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(202, 229, 253);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background-image: url(../img/img3.jpg);
+    background-size: cover;
+}
+.som{
+    box-shadow: 4px 4px 2px 2px #000;
+}
+
