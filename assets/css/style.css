@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(202, 229, 253);
+    background-color: rgb(250, 250, 250);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,5 +10,13 @@ nav{
 }
 .som{
     box-shadow: 4px 4px 2px 2px #000;
+    background-color: rgb(255, 254, 254);
 }
 
+.tamano{
+    height: 10%;
+}
+
+.color{
+    background-color: rgb(252, 109, 7);
+}
